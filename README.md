@@ -4,20 +4,21 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <span style="display:block;text-align:center"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)</span>
+   <span style="display:block;text-align:center"> </span>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </br>
 
+|  **Statistics**  | 
+|             :---:|
+|![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)|
+
 <details>
 <summary>Github Stats 📊</summary>
+</br>
 
 |  **Statistics**  |  **Languages**  |
 |             :---:|:---:            |
 |![](https://github-readme-streak-stats.herokuapp.com/?user=andreramolivaz&theme=blue-green&hide_border=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreramolivaz&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)|
-
-| **Trophy Collection**|
-|                 :---:|
-|![](https://github-profile-trophy.vercel.app/?username=andreramolivaz&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)|
 
 </details>
 
