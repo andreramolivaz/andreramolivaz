@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm André Ramolivaz</h1>
 
-<h3 align="center">A passionate student of data science and software engineer</h3>
+<h3 align="center">A passionate student of data science, AI and software engineer</h3>
 
 
 <div align="center">
