@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm André Ramolivaz</h1>
 
 <h3 align="center">A passionate student of data science, AI and software engineer</h3>
-
-
+<details>
+<summary>Feel inspired 💭</summary>
 <div align="center">
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
  </div>
+ </details>
  <details>
 <summary>Github Stats 📊</summary>
 </br>
