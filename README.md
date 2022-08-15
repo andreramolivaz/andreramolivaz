@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm André Ramolivaz</h1>
 
-<h3 align="center">A passionate student of data science, AI and software engineer</h3>
+<div align="center">
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&pause=1000&color=87F7A0&width=435&lines=A+passionate+student+of+data+science%2C+AI+and+software+engineer)](https://git.io/typing-svg)
+
+</div>
 <details>
 <summary>Feel inspired 💭</summary>
 <div align="center">
