@@ -2,6 +2,25 @@
 
 <div align="center">
  
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "André Ramolivaz"
+        self.role = "Software Engineer, Data Scientist"
+        self.language_spoken = ["it_IT", "en_US", "fr_FR"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&pause=100000000&color=87F7A0&width=435&lines=A+passionate+student+of+data+science%2C+AI+and+software+engineer)](https://git.io/typing-svg)
 
