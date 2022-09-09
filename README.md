@@ -8,7 +8,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&pause=100000000&color=87F7A0&width=435&lines=A+passionate+student+of+data+science%2C+AI+and+software+engineer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&pause=100000000&color=87F7A0&width=435&lines=A+passionate+student+of+data+science%2C+AI+and+software+engineer)
 
 </div>
 
